@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-olá tudo mau
-=======
-ola tudo mau !!!
->>>>>>> branch-b
